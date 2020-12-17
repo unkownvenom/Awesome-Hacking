@@ -97,3 +97,4 @@ Follow **Hack with GitHub** on your favorite social media to get daily updates o
 ## Contributions
 
 Please have a look at [contributing.md](contributing.md)
+Thank you. 
